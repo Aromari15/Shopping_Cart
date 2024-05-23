@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+D:\JavaShoppingCart\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\703008157.index
+\shopping\src\main\java

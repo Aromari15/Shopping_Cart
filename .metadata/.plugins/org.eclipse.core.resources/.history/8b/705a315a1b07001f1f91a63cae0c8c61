@@ -1,0 +1,21 @@
+package com.jsp.shoppingcart.dto;
+
+import java.util.List;
+
+
+public class Bill {
+	private String name;
+	private String Address;
+	private long mobileNumber;
+	private List<Item> items;
+	private double totalprice;
+	public Bill(String name, String address, long mobileNumber, List<Item> items, double totalprice) {
+		super();
+		this.name = name;
+		Address = address;
+		this.mobileNumber = mobileNumber;
+		this.items = items;
+		this.totalprice = totalprice;
+	}
+	
+}
